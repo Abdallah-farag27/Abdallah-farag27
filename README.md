@@ -5,7 +5,7 @@
 
 <p align="center">
   My name is Abdallah, and I'm a passionate Computer Engineering student at Cairo University. I am proficient in C++ and JavaScript, with a strong foundation in Object-Oriented Programming and software design patterns. I have experience building frontend web applications using Next.js and AngularJS. Learn more about me by viewing my 
-  <a href="https://drive.google.com/file/d/11PEeSBVcXJqdnxpIuqgWRekvKdW-sHya/view">resume</a>.
+  <a href="https://drive.google.com/drive/folders/1z0Rx_MbC4Yj3a_9-uxdbvK1dXPSXropV">resume</a>.
 </p>
 
 <div align='center'>
