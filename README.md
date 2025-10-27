@@ -11,7 +11,7 @@
 <div align='center'>
   <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻  </h2>
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,html,css,js,react,next,angular,postman,postgres,nodejs,express,figma,git,github,linux,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,html,css,js,react,next,angular,nuxt,vue,postman,postgres,nodejs,express,figma,git,github,linux,arduino" />
   </a>
 </div>
 
