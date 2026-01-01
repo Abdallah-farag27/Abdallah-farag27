@@ -30,7 +30,7 @@
 <br>
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-farag27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-farag27&theme=apprentice&show_icons=true&locale=en&layout=compact&disable_animations=false&hide_border=true&order=1" height="150" alt="saleh-ahmed"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-farag27&theme=apprentice&show_icons=true&locale=en&layout=compact&disable_animations=false&hide_border=true&order=1" height="150" alt="abdallah-farag"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah-farag27&theme=xcode&&radius=16&&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 </div>
